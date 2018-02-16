@@ -1,19 +1,14 @@
 {
-  "name": "nhinguyen",
+  "name": "Nhi Nguyen",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": {
-    "NhiResume": "./index.js"
-  },
-  "keywords": [
-    "resume",
-    "nnguy152",
-    "nhi nguyen"
-  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bin": {
+    "NhiN": "./index.js"
+  }
 }
