@@ -1,1 +1,1 @@
-Made my resume <3
+This is my resume (a work in progress <3)
