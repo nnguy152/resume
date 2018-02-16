@@ -1,5 +1,5 @@
 {
-  "name": "nnguy152",
+  "name": "NhiNResume",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "NhiN": "./index.js"
+    "NhiNResume": "./index.js"
   }
 }
